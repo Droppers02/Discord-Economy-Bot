@@ -6,12 +6,12 @@ Server economy Discord bot with mini luck-based games
 1. Change the .env file
 2. Make sure you change the database info on every code section it is needed (profileSchema.js, .env)
 3. Config files:
-   .env
-   shopPrices.json
-   globalValues.json
-   ready.js (line 8, bot activity)
-   gamble.js
-   coinflip.js
+   - .env;
+   - shopPrices.json
+   - globalValues.json
+   - ready.js (line 8, bot activity)
+   - gamble.js
+   - coinflip.js
 
 # NO SUPPORT WILL BE GIVEN.
 Not recommended for novices or those with no knowledge of programming/JavaScript.
